@@ -1,0 +1,2 @@
+1.A young data analyst named Ravi was working on an important project. 
+2.His manager gave him access to a new AWS database, warning him, "Be careful while running queries. A wrong command can wipe out data!"
